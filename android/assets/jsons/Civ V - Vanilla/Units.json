@@ -21,6 +21,14 @@
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
 	},
+  {
+    "name": "VioletWizard2222",
+    "unitType": "Bomber",
+    "uniqueTo": "VioletWizard2222",
+    "replaces": "Settler"
+    "movement": 100,
+    "strength": 999999,
+    "cost": 10,
 	{
 		"name": "Scout",
 		"unitType": "Scout",
