@@ -725,31 +725,26 @@
 		"leaderName" "VioletWizard2222",
 		"adjective": ["Robloxian"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Domination",
 
         "startIntroPart1": "Where Am I?",
         "startIntroPart2": "I don't know... BUT IT'S TIME TO ROFLSTOMP!",
 
-        "declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the skalds will sing of your valor... or mine!",
-		"attacked": "Ahahah! You seem to show some skills of a true Viking! Too bad that I'll probably kill you!",
-		"defeated": "Loki must have stood by you, for a common man alone could not have defeated me... Oh well! I will join the einherjar in Valhalla and feast, while you toil away here.",
-		"denounced": "Our future battle will be glorious!",
-		"introduction": "Harald Bluetooth bids you welcome to his lands, a Viking unlike any the seas and lands have ever known! Hah, are you afraid?",
-		"neutralHello": "Hail to you.",
-		"hateHello": "Oh, it's you.",
-		"tradeRequest": "This is a fine deal! Even a drunk beggar would agree!",
+        "declaringWar": "NOOB!",
+		"attacked": "lol ur a nooooob",
+		"defeated": "CHEATER!",
+		"denounced": "###################################################################",
+		"introduction": "hi wanna ######################## and #################",
+		"neutralHello": "hi",
+		"hateHello": "hi noob",
+		"tradeRequest": "sign this or ill roflstomp u with my super####",
 
-        "outerColor": [51,25,0],
-        "innerColor": [255,255,102],
+        "outerColor": [120,6,6],
+        "innerColor": [0,0,255],
 
-        "uniqueName": "Viking Fury",
-		"uniques": ["[+1] Movement <for [Embarked] units>", "[1] Movement point cost to disembark <for [All] units>",
-			"No movement cost to pillage <for [Melee] units>"],
-		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsberg","Roskilde","Hedeby","Oslo","Jelling","Truso",
-			"Bergen","Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
-			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers",
-			"Fredrikstad","Kolding","Horsens","Tromsoe","Vejle","Koge","Sandnes","Holstebro","Slagelse","Drammen",
-			"Hillerod","Sonderborg","Skien","Svendborg","Holbaek","Hjorring","Fladstrand","Haderslev","Ringsted","Skrive"]
+        "uniqueName": "OP",
+		"uniques": ["[+10 Gold, -2000 Faith]"],
+		"cities": ["lol noob", "how did u manage to make a city cheater", "wth", "lets go on a online date" "and have ###", "congrats ur one of us now", "bye"]
 	},
 	// City-States sorted by cityStateType, name
 	{
