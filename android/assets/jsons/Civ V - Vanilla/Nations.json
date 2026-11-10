@@ -743,7 +743,7 @@
         "innerColor": [0,0,255],
 
         "uniqueName": "OP",
-		"uniques": ["[+10 Gold, -2000 Faith]"],
+		"uniques": ["Starts with [Satellites]"],
 		"cities": ["lol noob", "how did u manage to make a city cheater", "wth", "lets go on a online date" "and have ###", "congrats ur one of us now", "bye"]
 	},
 	// City-States sorted by cityStateType, name
